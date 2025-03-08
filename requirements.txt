@@ -1,0 +1,9 @@
+streamlit
+requests
+textblob
+matplotlib
+seaborn
+youtube_transcript_api
+google-generativeai
+pillow
+sumy
