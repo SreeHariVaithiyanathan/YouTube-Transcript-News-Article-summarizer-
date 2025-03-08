@@ -1,0 +1,17 @@
+name: My_youtube_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - streamlit
+      - requests
+      - textblob
+      - matplotlib
+      - seaborn
+      - youtube_transcript_api
+      - google-generativeai
+      - pillow
+      - sumy
